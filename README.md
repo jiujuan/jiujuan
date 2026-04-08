@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: email jiujuanfeng@163.com
 
-### 架构知识合集（书）
+### 架构知识（书）
 
 - 《[深入理解微服务架构](https://github.com/jiujuan/dive-into-microservices-architecture)》 写的关于微服务架构相关方方面面的架构知识
 
