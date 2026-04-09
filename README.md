@@ -1,7 +1,3 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning AI & Agent & LLM & Business
-
 - 📫 How to reach me: email jiujuanfeng@163.com
 
 ### 架构专栏（书）
