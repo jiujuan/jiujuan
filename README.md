@@ -38,5 +38,7 @@
 
 - [wukong](https://github.com/jiujuan/wukong) AI Agent多智能体项目，多智能体任务执行系统，支持自定义+Skills 插件， 开发中ing
 
+- [spring boot 学习](https://github.com/jiujuan/spring-boot-learning) spring boot 学习
+
 ### blog 博客文章 
 - [blog 博客文章合集](https://github.com/jiujuan/blog)  博客文章合集，比较杂
