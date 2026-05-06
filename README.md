@@ -35,9 +35,11 @@
   
 - [go-redis](https://github.com/jiujuan/go-redis) 用 Go 写的一个简版 redis，用来学习理解真正 Redis 有帮助
 
-- [lilac](https://github.com/jiujuan/lilac) a simple golang web framework。基于 httprouter 开发
+- [go-jobs](https://github.com/jiujuan/go-jobs)  Go 分布式任务执行系统
 
 - [godelayq](https://github.com/jiujuan/godelayq)  Go开发的延迟队列系统，采用四叉堆
+
+- [lilac](https://github.com/jiujuan/lilac) a simple golang web framework。基于 httprouter 开发
 
 - [wukong](https://github.com/jiujuan/wukong) AI Agent多智能体项目，多智能体任务执行系统，支持自定义+Skills 插件， 开发中ing
 
