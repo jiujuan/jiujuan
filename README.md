@@ -11,7 +11,9 @@
 - 《[研发管理、研发流程、scrum和精益开发流程](https://github.com/jiujuan/RD-management-and-product-development)》 写的关于研发管理和产品开发，研发流程，Agile敏捷开发，打造卓越研发团队，精益产品开发等知识
    - 相关文章 ： [技术管理：搭建团队研发管理体系的一个框架概述](https://github.com/jiujuan/RD-management-and-product-development/blob/main/%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86%EF%BC%9A%E6%90%AD%E5%BB%BA%E5%9B%A2%E9%98%9F%E7%A0%94%E5%8F%91%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%E7%9A%84%E4%B8%80%E4%B8%AA%E6%A1%86%E6%9E%B6%E6%A6%82%E8%BF%B0.md)
    - [聊一聊程序员沟通相关的问题](https://github.com/jiujuan/RD-management-and-product-development/blob/main/%E7%A8%8B%E5%BA%8F%E5%91%98%E6%80%8E%E4%B9%88%E5%81%9A%E6%B2%9F%E9%80%9A%EF%BC%9F%E8%81%8A%E4%B8%80%E8%81%8A%E7%A8%8B%E5%BA%8F%E5%91%98%E6%B2%9F%E9%80%9A%E7%9B%B8%E5%85%B3%E7%9A%84%E9%97%AE%E9%A2%98.md)   
-   - [精益产品开发](https://github.com/jiujuan/RD-management-and-product-development/tree/main/%E7%B2%BE%E7%9B%8A%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91Lean)   [02 产品价值探索：找到正确的产品方向](https://github.com/jiujuan/RD-management-and-product-development/blob/main/%E7%B2%BE%E7%9B%8A%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91Lean/02%20%E4%BA%A7%E5%93%81%E4%BB%B7%E5%80%BC%E6%8E%A2%E7%B4%A2%EF%BC%9A%E6%89%BE%E5%88%B0%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BA%A7%E5%93%81%E6%96%B9%E5%90%91.md)
+   - [精益产品开发系列](https://github.com/jiujuan/RD-management-and-product-development/tree/main/%E7%B2%BE%E7%9B%8A%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91Lean)
+      - [02 产品价值探索：找到正确的产品方向](https://github.com/jiujuan/RD-management-and-product-development/blob/main/%E7%B2%BE%E7%9B%8A%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91Lean/02%20%E4%BA%A7%E5%93%81%E4%BB%B7%E5%80%BC%E6%8E%A2%E7%B4%A2%EF%BC%9A%E6%89%BE%E5%88%B0%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BA%A7%E5%93%81%E6%96%B9%E5%90%91.md)
+
  
 
 ### LLM&Agent学习合集 
