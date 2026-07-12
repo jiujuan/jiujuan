@@ -38,6 +38,8 @@
 
 - [goagent](https://github.com/jiujuan/goagent) Go语言开发的一个Agent框架，现在是 beta 版本
 
+- [BloomAI](https://github.com/jiujuan/BloomAI)  本地优先的一个AI桌面助手
+
 - [antblog蚂蚁博客](https://github.com/jiujuan/antblog) Go 语言实现，DDD 领域驱动设计的练习
   
 - [go-ants](https://github.com/jiujuan/go-ants) Go Web 应用开发框架，脚手架，快速开发 Web 应用
