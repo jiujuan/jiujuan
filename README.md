@@ -15,10 +15,18 @@
    - [精益产品开发系列](https://github.com/jiujuan/RD-management-and-product-development/tree/main/%E7%B2%BE%E7%9B%8A%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91Lean)
       - [02 产品价值探索：找到正确的产品方向](https://github.com/jiujuan/RD-management-and-product-development/blob/main/%E7%B2%BE%E7%9B%8A%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91Lean/02%20%E4%BA%A7%E5%93%81%E4%BB%B7%E5%80%BC%E6%8E%A2%E7%B4%A2%EF%BC%9A%E6%89%BE%E5%88%B0%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BA%A7%E5%93%81%E6%96%B9%E5%90%91.md)
 
- 
+### AI Native 组织
 
-### LLM&Agent学习合集 
-- [LLM&Agent学习合集](https://github.com/jiujuan/llm-agent-notebook) LLM基础知识和Agent应用开发相关知识
+- [AI-Native组织](https://github.com/jiujuan/llm-agent-notebook/tree/master/AI-Native%E7%BB%84%E7%BB%87) 什么是AI Native组织? AI Native 如何重塑传统工作流和公司基本工作单元？怎么建立AI Native组织？
+
+### LLM&Agent应用架构学习合集 ，langgraph-guide
+
+- [Agent应用架构分析和开发](https://github.com/jiujuan/llm-agent-notebook/tree/master/Agent%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84%E5%88%86%E6%9E%90%E5%92%8C%E5%BC%80%E5%8F%91) Agent应用架构分析和开发
+
+- [LLM&Agent学习合集](https://github.com/jiujuan/llm-agent-notebook) LLM基础知识、Agent应用架构和开发相关知识
+  
+
+- [langgraph-guide](https://github.com/jiujuan/langgraph-guide) langgraph基础、组件、原理教程
 
 ### golang、java学习合集
 
@@ -27,6 +35,8 @@
 - [Java学习与进阶笔记](https://github.com/jiujuan/JavaNotebook)  java&springboot学习相关笔记
  
 ### MyProjects 我的一些项目
+
+- [goagent](https://github.com/jiujuan/goagent) Go语言开发的一个Agent框架，现在是 beta 版本
 
 - [antblog蚂蚁博客](https://github.com/jiujuan/antblog) Go 语言实现，DDD 领域驱动设计的练习
   
