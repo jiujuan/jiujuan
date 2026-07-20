@@ -1,10 +1,5 @@
 - 📫 How to reach me: email jiujuanfeng@163.com
 
-### 架构专栏（书）
-
-- 《[深入理解微服务架构](https://github.com/jiujuan/dive-into-microservices-architecture)》 写的关于微服务架构相关方方面面的架构知识
-
-- 《[架构设计之路：业务架构、技术架构、电商架构、DDD等等](https://github.com/jiujuan/the-way-of-software-architecture)》 写的企业架构、业务架构、应用架构、电商平台演进、中台架构、DDD等各种架构中的知识
 
 ### 研发流程和研发管理、业务专栏（书）
 
@@ -19,6 +14,12 @@
 ### AI Native 组织
 
 - [AI-Native组织](https://github.com/jiujuan/llm-agent-notebook/tree/master/AI-Native%E7%BB%84%E7%BB%87) 什么是AI Native组织? AI Native 如何重塑传统工作流和公司基本工作单元？怎么建立AI Native组织？
+
+### 架构专栏（书）
+
+- 《[深入理解微服务架构](https://github.com/jiujuan/dive-into-microservices-architecture)》 写的关于微服务架构相关方方面面的架构知识
+
+- 《[架构设计之路：业务架构、技术架构、电商架构、DDD等等](https://github.com/jiujuan/the-way-of-software-architecture)》 写的企业架构、业务架构、应用架构、电商平台演进、中台架构、DDD等各种架构中的知识
 
 ### LLM&Agent应用架构学习合集 ，langgraph-guide
 
