@@ -26,7 +26,7 @@
 - [LLM&Agent学习合集](https://github.com/jiujuan/llm-agent-notebook) LLM基础知识、Agent应用架构和开发相关知识
   
 
-- [langgraph-guide](https://github.com/jiujuan/langgraph-guide) langgraph基础、组件、原理教程
+- [langgraph-guide](https://github.com/jiujuan/langgraph-guide) langgraph基础、组件、实战和简单原理分析的教程
 
 ### golang、java学习合集
 
