@@ -21,11 +21,11 @@
 
 - 《[架构设计之路：业务架构、技术架构、电商架构、DDD等等](https://github.com/jiujuan/the-way-of-software-architecture)》 写的企业架构、业务架构、应用架构、电商平台演进、中台架构、DDD等各种架构中的知识
 
-### LLM&Agent应用架构学习合集 ，langgraph-guide
+### Agent 应用架构学习合集 ，langgraph-guide，LLM 学习
 
-- [Agent应用架构分析和开发](https://github.com/jiujuan/llm-agent-notebook/tree/master/Agent%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84%E5%88%86%E6%9E%90%E5%92%8C%E5%BC%80%E5%8F%91) Agent应用架构分析和开发
+- [Agent 应用架构分析和开发](https://github.com/jiujuan/llm-agent-notebook/tree/master/Agent%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84%E5%88%86%E6%9E%90%E5%92%8C%E5%BC%80%E5%8F%91) Agent 应用架构分析和开发
 
-- [LLM&Agent学习合集](https://github.com/jiujuan/llm-agent-notebook) LLM基础知识、Agent应用架构和开发相关知识
+- [LLM&Agent 学习合集](https://github.com/jiujuan/llm-agent-notebook) LLM基础知识、Agent应用架构和开发相关知识
   
 
 - [langgraph-guide](https://github.com/jiujuan/langgraph-guide) langgraph基础、组件、实战和简单原理分析的教程
