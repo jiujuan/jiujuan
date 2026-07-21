@@ -45,6 +45,8 @@
 - [antblog蚂蚁博客](https://github.com/jiujuan/antblog) Go 语言实现，DDD 领域驱动设计的练习
   
 - [go-ants](https://github.com/jiujuan/go-ants) Go Web 应用开发框架，脚手架，快速开发 Web 应用
+
+- [wukong](https://github.com/jiujuan/wukong) AI Agent多智能体项目，多智能体任务执行系统，支持自定义+Skills 插件， 开发中ing
   
 - [go-redis](https://github.com/jiujuan/go-redis) 用 Go 写的一个简版 redis，用来学习理解真正 Redis 有帮助
 
@@ -53,8 +55,6 @@
 - [go-collection](https://github.com/jiujuan/go-collection) 从学习 Go 基础语法和高级特性，到实战项目，再到架构微服务等学习资料
 
 - [lilac](https://github.com/jiujuan/lilac) a simple golang web framework。基于 httprouter 开发
-
-- [wukong](https://github.com/jiujuan/wukong) AI Agent多智能体项目，多智能体任务执行系统，支持自定义+Skills 插件， 开发中ing
 
 - [spring boot 学习](https://github.com/jiujuan/spring-boot-learning) spring boot 学习
 
