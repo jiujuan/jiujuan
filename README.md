@@ -1,4 +1,5 @@
 - 📫 How to reach me: email jiujuanfeng@163.com
+- my blog: [我的博客](https://github.com/jiujuan/blog)
 
 
 ### 研发流程和研发管理、业务专栏（书）
