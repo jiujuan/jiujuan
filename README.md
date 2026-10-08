@@ -16,9 +16,9 @@
 
 - [goagent](https://github.com/jiujuan/goagent) Go语言开发的一个Agent框架，现在是 beta 版本
 
-- [BloomAI](https://github.com/jiujuan/BloomAI)  本地优先的一个AI桌面助手
-
 - [lingxi](https://github.com/jiujuan/lingxi) lingxi(灵犀)，用RAG做的企业知识库解析系统，python+react+ai llm
+
+- [BloomAI](https://github.com/jiujuan/BloomAI)  本地优先的一个AI桌面助手
 
 - [antblog蚂蚁博客](https://github.com/jiujuan/antblog) Go 语言实现，DDD 领域驱动设计的练习
   
