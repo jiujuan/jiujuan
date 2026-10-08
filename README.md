@@ -11,6 +11,30 @@
    - [精益产品开发系列](https://github.com/jiujuan/RD-management-and-product-development/tree/main/%E7%B2%BE%E7%9B%8A%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91Lean)
       - [02 产品价值探索：找到正确的产品方向](https://github.com/jiujuan/RD-management-and-product-development/blob/main/%E7%B2%BE%E7%9B%8A%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91Lean/02%20%E4%BA%A7%E5%93%81%E4%BB%B7%E5%80%BC%E6%8E%A2%E7%B4%A2%EF%BC%9A%E6%89%BE%E5%88%B0%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BA%A7%E5%93%81%E6%96%B9%E5%90%91.md)
 
+### MyProjects 我的一些项目
+
+- [goagent](https://github.com/jiujuan/goagent) Go语言开发的一个Agent框架，现在是 beta 版本
+
+- [BloomAI](https://github.com/jiujuan/BloomAI)  本地优先的一个AI桌面助手
+
+- [lingxi](https://github.com/jiujuan/lingxi) lingxi(灵犀)，用RAG做的企业知识库解析系统，python+react+ai llm
+
+- [antblog蚂蚁博客](https://github.com/jiujuan/antblog) Go 语言实现，DDD 领域驱动设计的练习
+  
+- [go-ants](https://github.com/jiujuan/go-ants) Go Web 应用开发框架，脚手架，快速开发 Web 应用
+
+- [wukong](https://github.com/jiujuan/wukong) AI Agent多智能体项目，多智能体任务执行系统，支持自定义+Skills 插件， 开发中ing
+  
+- [go-redis](https://github.com/jiujuan/go-redis) 用 Go 写的一个简版 redis，用来学习理解真正 Redis 有帮助
+
+- [godelayq](https://github.com/jiujuan/godelayq)  Go开发的延迟队列系统，采用四叉堆
+
+- [go-collection](https://github.com/jiujuan/go-collection) 从学习 Go 基础语法和高级特性，到实战项目，再到架构微服务等学习资料
+
+- [lilac](https://github.com/jiujuan/lilac) a simple golang web framework。基于 httprouter 开发
+
+- [spring boot 学习](https://github.com/jiujuan/spring-boot-learning) spring boot 学习
+
 ### AI Native 组织
 
 - [AI-Native组织](https://github.com/jiujuan/llm-agent-notebook/tree/master/AI-Native%E7%BB%84%E7%BB%87) 什么是AI Native组织? AI Native 如何重塑传统工作流和公司基本工作单元？怎么建立AI Native组织？
@@ -36,29 +60,7 @@
 
 - [Java学习与进阶笔记](https://github.com/jiujuan/JavaNotebook)  java&springboot学习相关笔记
  
-### MyProjects 我的一些项目
 
-- [goagent](https://github.com/jiujuan/goagent) Go语言开发的一个Agent框架，现在是 beta 版本
-
-- [BloomAI](https://github.com/jiujuan/BloomAI)  本地优先的一个AI桌面助手
-
-- [lingxi](https://github.com/jiujuan/lingxi) lingxi(灵犀)，用RAG做的企业知识库解析系统，python+react+ai llm
-
-- [antblog蚂蚁博客](https://github.com/jiujuan/antblog) Go 语言实现，DDD 领域驱动设计的练习
-  
-- [go-ants](https://github.com/jiujuan/go-ants) Go Web 应用开发框架，脚手架，快速开发 Web 应用
-
-- [wukong](https://github.com/jiujuan/wukong) AI Agent多智能体项目，多智能体任务执行系统，支持自定义+Skills 插件， 开发中ing
-  
-- [go-redis](https://github.com/jiujuan/go-redis) 用 Go 写的一个简版 redis，用来学习理解真正 Redis 有帮助
-
-- [godelayq](https://github.com/jiujuan/godelayq)  Go开发的延迟队列系统，采用四叉堆
-
-- [go-collection](https://github.com/jiujuan/go-collection) 从学习 Go 基础语法和高级特性，到实战项目，再到架构微服务等学习资料
-
-- [lilac](https://github.com/jiujuan/lilac) a simple golang web framework。基于 httprouter 开发
-
-- [spring boot 学习](https://github.com/jiujuan/spring-boot-learning) spring boot 学习
 
 ### blog 博客文章 
 - [blog 博客文章合集](https://github.com/jiujuan/blog)  博客文章合集，比较杂
