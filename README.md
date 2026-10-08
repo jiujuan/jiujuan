@@ -42,6 +42,8 @@
 
 - [BloomAI](https://github.com/jiujuan/BloomAI)  本地优先的一个AI桌面助手
 
+- [lingxi](https://github.com/jiujuan/lingxi) lingxi(灵犀)，用RAG做的企业知识库解析系统，python+react+ai llm
+
 - [antblog蚂蚁博客](https://github.com/jiujuan/antblog) Go 语言实现，DDD 领域驱动设计的练习
   
 - [go-ants](https://github.com/jiujuan/go-ants) Go Web 应用开发框架，脚手架，快速开发 Web 应用
