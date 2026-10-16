@@ -48,7 +48,7 @@
 
 ### Agent 应用架构学习合集 ，langgraph-guide，LLM 学习
 
-- [Agent 应用架构设计与开发](https://github.com/jiujuan/ai-agent-notebook/tree/master/Agent%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BC%80%E5%8F%91) Agent 应用架构设计与开发
+- [Agent 应用架构设计与开发](https://github.com/jiujuan/ai-agent-notebook/tree/master/ai-agent-book) Agent 应用架构设计与开发
 
 - [LLM&Agent 学习合集](https://github.com/jiujuan/llm-agent-notebook) LLM基础知识、Agent应用架构和开发相关知识
   
